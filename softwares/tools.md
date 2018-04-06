@@ -27,4 +27,5 @@
         var terms = decrypted.trim().split("\n");
         if (terms[0] === name && terms[1] === product) {
 ```
+- 保存退出
 - StarUML -> help -> Enterlicense -> Oxcd -> OK
