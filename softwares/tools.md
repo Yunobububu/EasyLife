@@ -29,3 +29,9 @@
 ```
 - 保存退出
 - StarUML -> help -> Enterlicense -> Oxcb -> OK
+
+# [brew](https://brew.sh/) 安装for Mac
+* 打开终端
+* 复制命令
+* `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+* 可能会询问创建新的文件夹,确认即可
